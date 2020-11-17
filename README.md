@@ -1,4 +1,4 @@
-Ping Pong Classic Arcade Fun
+Ping Pong Classic
 ===============================
 
 Ping Pong Classic Arcade Fun, is a pong like game with 2 players mode and fun mode
